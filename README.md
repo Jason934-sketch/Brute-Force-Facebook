@@ -1,37 +1,16 @@
-## Welcome to GitHub Pages
+### cara install
 
-You can use the [editor on GitHub](https://github.com/InternsialNode/I-N/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+kamu download dan ekstrak 
+lalu pindahkan di folder kalau bisa di direktori c:/
+lalu search google wordlist atau kamu dapat membuat wordlist dendiri
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+buka CMD dan pindahkan ke direktori kamu meng ekstrak
+lalu buat perintah fb_in.pl {id target atau email} dan {tempat direktori wordlist nya}
 
-### Markdown
+contoh
+cd c:/example/
+fb_in.pl 092389034829 c:/example/wordlist.txt
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+persyaratan
+**  perl
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/InternsialNode/I-N/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
