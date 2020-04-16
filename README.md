@@ -12,5 +12,6 @@ cd c:/example/
 fb_in.pl 092389034829 c:/example/wordlist.txt
 
 persyaratan
-**  perl
+**  perl (http://strawberryperl.com/)
+
 
