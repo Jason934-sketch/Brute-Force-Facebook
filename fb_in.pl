@@ -9,7 +9,7 @@ if(!defined($ARGV[0] && $ARGV[1])) {
 system('clear');
 
 print "\033[1;32m    ======================================================\n";
-print "\033[1;32m         Usage: perl EvilFB.pl Username Passlist.txt \n";
+print "\033[1;32m         Usage: perl fb_in.pl Username Passlist.txt \n";
 print "\033[1;32m    ======================================================\n";
 exit; }
 
@@ -23,8 +23,14 @@ print "\033[1;32m                               INTERNSIAL_NODE                 
 print "\033[1;32m         ========================================================\n";
 print "\033[1;32m                           CONTACT ME ON FACEBOOK:               \n";
 print "\033[1;32m                 https://web.facebook.com/Internsialnode/        \n";
+print "\033[1;32m                                 HOMEPAGE:                       \n";
+print "\033[1;32m                    https://internsialnode.blogspot.com          \n";
 print "\033[1;32m                              Coded By : I-N                     \n";
-print "\033[1;32m         ========================================================\n";
+print "\033[1;32m         ++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
+print "\033[1;32m         LICENSED  : free, Open Source (bebas diedit siapa saja) \n";
+print "\033[1;32m         ++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
+print "\033[1;32m         Kami tidak bertanggung jawab atas apa yang anda kerjakan\n";
+print "\033[1;32m         +++++++++++++++++++++++   DOSA   +++++++++++++++++++++++\n";
 
 print "\033[1;32m\n [+] Cracking Started on: $user ...\n\n";
 print "=======================================\n";
@@ -86,7 +92,7 @@ close SSL;
 else
 {
 print "\033[1;32m\n########################################################\n";
-print "[+] \033[1;32mPassword Cracked: $password\n";
+print "[+] \033[1;32mPassword Dapat Bogeng ! : $password\n";
 print "\033[1;32m########################################################\n\n";
 close SSL;
 exit;
