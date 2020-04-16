@@ -14,4 +14,5 @@ fb_in.pl 092389034829 c:/example/wordlist.txt
 persyaratan
 **  perl (http://strawberryperl.com/)
 
+ingat alat ini hanya bekerja pada wordlist anda saja
 
