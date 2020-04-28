@@ -21,14 +21,6 @@ open (LIST, $wordlist) || die "\n[-] Can't find/open $wordlist\n";
 
 print "\033[1;32m                               INTERNSIAL_NODE                   \n";
 print "\033[1;32m         ========================================================\n";
-print "\033[1;32m                           CONTACT ME ON FACEBOOK:               \n";
-print "\033[1;32m                 https://web.facebook.com/Internsialnode/        \n";
-print "\033[1;32m                                 HOMEPAGE:                       \n";
-print "\033[1;32m                    https://internsialnode.blogspot.com          \n";
-print "\033[1;32m                              Coded By : I-N                     \n";
-print "\033[1;32m         ++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
-print "\033[1;32m         LICENSED  : free, Open Source (bebas diedit siapa saja) \n";
-print "\033[1;32m         ++++++++++++++++++++++++++++++++++++++++++++++++++++++++\n";
 print "\033[1;32m         Kami tidak bertanggung jawab atas apa yang anda kerjakan\n";
 print "\033[1;32m         +++++++++++++++++++++++   DOSA   +++++++++++++++++++++++\n";
 
