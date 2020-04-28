@@ -1,15 +1,13 @@
-### cara install
-
-1.windows
-  a.buka CMD.
-  b.download dan pindahkan direktori cmd ke tempat kamu mendownload file ini.
-  c.misal (cd c:/Brute-Force-Facebook).
-  d.Lalu ketik perl fb_in.pl contohusername@contoh.com c:/Brute-Force-Facebook/wordlist.txt.
-  e.Ganti kata fb_in.pl contohusername@contoh.com dengan email target.
-  f.Lalu kamu bisa menggunakan wordlist default adau dapat mencari di google lalu tekan enter.
+### windows
+* buka CMD.
+* download dan pindahkan direktori cmd ke tempat kamu mendownload file ini.
+* misal (cd c:/Brute-Force-Facebook).
+* Lalu ketik perl fb_in.pl contohusername@contoh.com c:/Brute-Force-Facebook/wordlist.txt.
+* Ganti kata fb_in.pl contohusername@contoh.com dengan email target.
+* Lalu kamu bisa menggunakan wordlist default adau dapat mencari di google lalu tekan enter.
   
-2.linux
-  a.buka terminal
+### 2.linux
+*buka terminal
   a.sudo apt install git
   b.git clone https://github.com/InternsialNode/Brute-Force-Facebook.git
   c.cd Brute-Force-Facebook
