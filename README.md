@@ -1,34 +1,33 @@
-### Cara Install.
-### windows
-* buka CMD.
-* download dan pindahkan direktori cmd ke tempat kamu mendownload file ini.
-* misal (cd c:/Brute-Force-Facebook).
-* Lalu ketik perl fb_in.pl contohusername@contoh.com c:/Brute-Force-Facebook/wordlist.txt.
-* Ganti kata fb_in.pl contohusername@contoh.com dengan email target.
-* Lalu kamu bisa menggunakan wordlist default adau dapat mencari di google lalu tekan enter.
+### How to Install.
+### window
+* open CMD.
+* download and move the cmd directory to where you downloaded this file.
+* eg (cd c: / Brute-Force-Facebook).
+* Then type perl fb_in.pl egusername@example.com c: /Brute-Force-Facebook/wordlist.txt.
+* Replace the word fb_in.pl egusername@example.com with the target email.
+* Then you can use the default wordlist, you can search on google and press enter.
   
 ### 2.linux
-* buka terminal
-* sudo apt install git
+* open a terminal
+* sudo apt installs git
 * git clone https://github.com/InternsialNode/Brute-Force-Facebook.git
 * cd Brute-Force-Facebook
-* Ganti kata fb_in.pl contohusername@contoh.com dengan email target
+* Replace the word fb_in.pl egusername@example.com with the target email
   
 
-### persyaratan
-* Interpreter perl (http://strawberryperl.com/)
+### requirements
+* Perl translator (http://strawberryperl.com/)
 
 
-### Lisensi
-* Open Source (bebas di sebarkan, di gnati nama, di perbaiki semua bebas dan gratis)
+### Licence
+* Open Source (free to distribute, in gnati name, repaired all free and free)
 
 
-### Perhatian
-* Semua Yang di sebabkan oleh penggunaan alat ini bukan tanggung jawab pembuat, semua tanggung jawab si pengguna
-* Ingat Dosa
+### Attention
+* Everything that is caused by using this tool is not the responsibility of the maker, all the responsibility of the user
+* Remember Sin
 
-### Tambahan
-* alat ini tidak akan dapat meretas kata sandi apabilan pada wordlistnya tidak komplit, kekuatan alat ini ada di wordlist.
-* Semakin Banyak Kata Semakin Bagus dan efisien alat ini.
-* diperlukan koneksi yang setabil dan cepat karna alat ini bisa berjalan 1 hari penuh tanpa henti tergantung banyak digit password korban
-
+### Additional
+* This tool will not be able to crack the password if the wordlist is incomplete, the power of this tool is in the wordlist.
+* More Words The better and more efficient this tool.
+* a stable and fast connection is required because this tool can run 1 full day without stopping depending on the number of digits of the victim
